@@ -23,4 +23,5 @@
             @endforeach
         </tbody>
       </table>
+      <a href="/" class="btn btn-secondary mx-4 my-2">go back</a>
 @endsection
